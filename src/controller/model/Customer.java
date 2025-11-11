@@ -5,3 +5,4 @@ package br.ucb.grasp.domain;
  * Representa o cliente sem depender de outras camadas.
  */
 public record Customer(Long id, String name) { }
+//Organização
